@@ -6,7 +6,8 @@ import visualIcon from '../assets/assets2/images/icon-visual.svg'
 
 const Base = () => {
   return (
-    <div className="px-[8%] flex flex-col py-[4%] gap-6">
+    <div className="px-[8%] flex flex-col py-[4%] gap-6 bg-white w-full
+     lg:w-[50%]">
        <p className="text-lg font-bold">Summary</p>
 
         <div className="flex flex-col gap-3">
