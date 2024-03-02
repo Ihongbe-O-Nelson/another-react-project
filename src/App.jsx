@@ -4,10 +4,9 @@ import Base from "./components/Base";
 
 const App = () => {
   return (
-    <div className="">
-      <div className="">
-        <Top className=""/>
-        <Base className=""/>
+    <div>
+      <div>
+        <Base/>
       </div>
     </div>
   );
