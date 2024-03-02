@@ -5,7 +5,7 @@ const Top = () => {
     <div
       className="w-full bg-gradient-to-t from-blue-700 to-blue-500 flex flex-col items-center 
      px-14 py-5 gap-3 text-white rounded-b-3xl 
-     lg:w-[50%] lg:rounded-3xl"
+     lg:w-[50%] lg:rounded-3xl lg:gap-5 lg:justify-center"
      >
 
       <p>Your Result</p>
@@ -15,7 +15,7 @@ const Top = () => {
         <p className="text-sm text-gray-300">of 100</p>
       </div>
       <p className="text-2xl font-medium">Great</p>
-      <p className="text-md text-gray-300">
+      <p className="text-md text-gray-300 lg:text-center ">
         You scored higher than 65% of the people who have taken these tests.
       </p>
     </div>

@@ -58,7 +58,7 @@ const Base = () => {
 
         <button
           className="flex justify-center bg-blue-950 h-12 px-3 py-7 items-center rounded-full
-            text-white font-bold lg:py-4 lg:h-10"
+            text-white font-bold lg:py-4 lg:h-10 hover:bg-gradient-to-t from-blue-700 to-blue-500"
         >
           Continue
         </button>
