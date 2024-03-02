@@ -15,7 +15,7 @@ const Top = () => {
         <p className="text-sm text-gray-300">of 100</p>
       </div>
       <p className="text-2xl font-medium">Great</p>
-      <p className="text-md text-gray-300 lg:text-center ">
+      <p className="text-md text-gray-300 lg:text-center">
         You scored higher than 65% of the people who have taken these tests.
       </p>
     </div>
